@@ -1,0 +1,132 @@
+#everything{
+  background-color: grey;
+}
+  #heading{
+  display:block;
+border:solid black 1px;
+margin:0 auto;
+width:100%;
+padding-bottom:10px;
+
+background-color: #2EFE2E;
+text-align: center;;
+
+}
+#content{
+  display:block;
+border:solid black 1px;
+margin:0 auto;
+width:60%;
+padding-bottom:10px;
+
+background-color: white;
+font-size:24px;
+}
+#stepOne{
+  display:block;
+border:solid black 1px;
+margin:0 auto;
+width:60%;
+padding-bottom:10px;
+
+background-color: white;
+font-size:24px;
+
+
+}
+#step0neimg{
+  width:100%;
+  height:400px;
+}
+#stepTwo{
+  display:block;
+border:solid black 1px;
+margin:0 auto;
+width:60%;
+padding-bottom:10px;
+
+background-color: white;
+font-size:24px;
+
+
+}
+#stepTwoimg{
+  width:100%;
+  height:400px;
+}
+
+#stepThree{
+  display:block;
+border:solid black 1px;
+margin:0 auto;
+width:60%;
+padding-bottom:10px;
+
+background-color: white;
+font-size:24px;
+
+
+}
+#stepThreeimg{
+  width:100%;
+  height:400px;
+}
+#stepFour{
+  display:block;
+border:solid black 1px;
+margin:0 auto;
+width:60%;
+padding-bottom:10px;
+
+background-color: white;
+font-size:24px;
+
+
+}
+#stepFourimg{
+  width:100%;
+  height:400px;
+}
+#stepFive{
+  display:block;
+border:solid black 1px;
+margin:0 auto;
+width:60%;
+padding-bottom:10px;
+
+background-color: white;
+font-size:24px;
+
+
+}
+#stepFiveimg{
+  width:100%;
+  height:400px;
+}
+#One{
+  height:50px;
+  width:60px;
+}
+#Two{
+  height:50px;
+  width:60px;
+}
+#Three{
+  height:50px;
+  width:60px;
+}
+#Four{
+  height:50px;
+  width:60px;
+}
+#Five{
+  height:50px;
+  width:60px;
+}
+#Done{
+  width:100%;
+  height:50px;
+}
+#Done:hover{
+  background-color: #2EFE2E;
+}
